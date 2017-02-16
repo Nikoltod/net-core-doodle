@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Storage
 {
-    public class Class1
+    public class Item
     {
-        public Class1()
+        public Item()
         {
         }
     }
