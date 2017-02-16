@@ -1,6 +1,6 @@
-# C# console application
+# C# Store app
 
-This is a simple Store application made in C#.
+This is a simple Store application which can be used with all kind of products made in C#.
 The application consists of :
 
 Store : which will sell the items within the store and be able to replenish the suply of the store from the Storage
